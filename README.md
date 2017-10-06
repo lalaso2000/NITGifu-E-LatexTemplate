@@ -5,6 +5,9 @@
 - 改変・二次配布は可です。
 - 問題点があれば[#issue](https://github.com/lalaso2000/NITGifu-E-LatexTemplate/issues)までお知らせください。
 
+## ブランチ
+- `J-Course`…Jコースの後期の表紙です。
+
 ## 問題点
 - とにかくソースが汚いです。
 - 一応最低限使えるようにしたつもりです。
